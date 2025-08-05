@@ -1,0 +1,3 @@
+*.text
+!spcial.text
+*node_modules
